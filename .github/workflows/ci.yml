@@ -1,4 +1,4 @@
-name: Render Deploy
+name: push to Docker Hub
 
 on:
   push:
